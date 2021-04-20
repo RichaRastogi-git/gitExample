@@ -5,6 +5,6 @@ public static void main(String B[]){
 
 System.out.println("Which is your branch");
 String st= sc.next();
-system.out.println("My Branch is :"+st);
+System.out.println("My Branch is :"+st);
 }
 }
