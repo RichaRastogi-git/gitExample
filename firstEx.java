@@ -1,5 +1,5 @@
-public class FirstEx{
-	public void main (string k[])
+public Class FirstEx{
+	public void main (String k[])
 	{
 		System.out.println("Richa Rastogi");
 	}
